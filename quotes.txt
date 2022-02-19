@@ -1,5 +1,5 @@
 Responsive is better than fast
-It’s not fully shipped until it’s fast
+It is not fully shipped until it’s fast
 Anything added dilutes everything else
 Practicality beats purity
 Approachable is better than simple
@@ -12,3 +12,6 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+A robot may not injure a human being or, through inaction, allow a human being to come to harm
+A robot must obey the orders given it by human beings except where such orders would conflict with the First Law
+A robot must protect its own existence as long as such protection does not conflict with the First or Second Law
